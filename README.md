@@ -5,6 +5,6 @@
 - 🚀 Learnt React JS in a [bootcamp](https://neog.camp/) via building projects.
 - 📘 I’m learning Typescript at the moment.
 - 📍 You can follow me on LinkedIn [@amlanxyz](https://www.linkedin.com/in/amlanxyz/)
-- ➡️ Visit my [portfolio](https://amlansaikia-portfolio.vercel.app). 
+- ➡️ Visit my [portfolio](https://portfolio-amlan.vercel.app). 
 
 
